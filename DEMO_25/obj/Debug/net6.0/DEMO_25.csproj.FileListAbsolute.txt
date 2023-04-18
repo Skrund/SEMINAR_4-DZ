@@ -1,0 +1,15 @@
+E:\SEMINAR_4 DZ\DEMO_25\bin\Debug\net6.0\DEMO_25.exe
+E:\SEMINAR_4 DZ\DEMO_25\bin\Debug\net6.0\DEMO_25.deps.json
+E:\SEMINAR_4 DZ\DEMO_25\bin\Debug\net6.0\DEMO_25.runtimeconfig.json
+E:\SEMINAR_4 DZ\DEMO_25\bin\Debug\net6.0\DEMO_25.dll
+E:\SEMINAR_4 DZ\DEMO_25\bin\Debug\net6.0\DEMO_25.pdb
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.csproj.AssemblyReference.cache
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.AssemblyInfoInputs.cache
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.AssemblyInfo.cs
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.csproj.CoreCompileInputs.cache
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.dll
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\refint\DEMO_25.dll
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.pdb
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\DEMO_25.genruntimeconfig.cache
+E:\SEMINAR_4 DZ\DEMO_25\obj\Debug\net6.0\ref\DEMO_25.dll
